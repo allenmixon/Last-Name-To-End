@@ -1,2 +1,2 @@
 # Last-Name-To-End
-Goes through a CSV file and moves the last name from the beginning to the end of a cell for use in a mailing address. Python3.
+Sometimes data comes in a last name fisrt form. It can also be messy with a lot of additional values 'Et al' for example and hard to fix in excel. This program tries to handle some of those exception cases. It goes through a CSV file and writes to a new one with the rearranged name column. Python3.
